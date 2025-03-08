@@ -1,0 +1,56 @@
+[
+  {
+    "uuid": "b74870d3-ce28-3687-912b-a14b5b99787c",
+    "displayName": {
+      "insertion": "carloselpillo",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell carloselpillo "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "b74870d3-ce28-3687-912b-a14b5b99787c",
+          "name": {
+            "text": "carloselpillo"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "carloselpillo"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "7c9a46fb-079b-38c3-bba6-285ddc1d6c32",
+    "displayName": {
+      "insertion": "joselete123",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell joselete123 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "7c9a46fb-079b-38c3-bba6-285ddc1d6c32",
+          "name": {
+            "text": "joselete123"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "joselete123"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
