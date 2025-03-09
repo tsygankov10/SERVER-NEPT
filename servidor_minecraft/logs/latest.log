@@ -4768,3 +4768,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Mar2025 23:49:51.068] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
 [08Mar2025 23:49:51.068] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
 [08Mar2025 23:49:51.069] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[08Mar2025 23:49:57.143] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[08Mar2025 23:49:57.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[08Mar2025 23:49:57.144] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[08Mar2025 23:51:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[08Mar2025 23:52:29.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[08Mar2025 23:53:38.428] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[08Mar2025 23:55:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Monster Hunter]
+[08Mar2025 23:55:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Getting an Upgrade]
+[08Mar2025 23:56:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[08Mar2025 23:56:38.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
